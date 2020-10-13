@@ -26,7 +26,8 @@ header {
   color: #212121;
   text-decoration: none;
 }
-.navigation a:hover {
+.navigation a:hover,
+.navigation a:focus {
   color: #2196f3;
 }
 .header-contacts a {
@@ -39,7 +40,8 @@ header {
   color: #757575;
   text-decoration: none;
 }
-.header-contacts a:hover {
+.header-contacts a:hover,
+.header-contacts a:focus {
   color: #2196f3;
 }
 main {
@@ -182,7 +184,8 @@ footer {
   color: #212121;
   background: #f5f4fa;
 }
-.portfolio-filter button:hover {
+.portfolio-filter button:hover,
+.portfolio-filter button:focus {
   color: #ffffff;
   background: #2196f3;
 }
