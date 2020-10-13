@@ -6,7 +6,7 @@ header {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.9375em;
   letter-spacing: 0.03em;
   color: #000000;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -21,7 +21,7 @@ header {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
   letter-spacing: 0.02em;
   color: #212121;
   text-decoration: none;
@@ -35,7 +35,7 @@ header {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
   letter-spacing: 0.02em;
   color: #757575;
   text-decoration: none;
@@ -52,7 +52,7 @@ main {
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 136%;
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -69,7 +69,7 @@ main {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.875em;
   display: flex;
   align-items: center;
   text-align: center;
@@ -81,7 +81,7 @@ main {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #212121;
@@ -91,7 +91,7 @@ main {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
   color: #757575;
 }
@@ -100,7 +100,7 @@ main {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 2.625em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -113,7 +113,7 @@ main {
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 2.625em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -123,7 +123,7 @@ main {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.1875em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -133,7 +133,7 @@ main {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1.1875em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
@@ -146,7 +146,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 31px;
+  line-height: 1.9375em;
   letter-spacing: 0.03em;
   color: #ffffff;
   text-decoration: none;
@@ -159,7 +159,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -168,7 +168,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.5em;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
@@ -178,7 +178,7 @@ footer {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1.625em;
   text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
@@ -197,7 +197,7 @@ footer {
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2.25em;
   letter-spacing: 0.06em;
   color: #212121;
 }
@@ -206,7 +206,7 @@ footer {
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1.875em;
   letter-spacing: 0.03em;
   color: #757575;
 }
