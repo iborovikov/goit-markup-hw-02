@@ -70,14 +70,15 @@ body {
   letter-spacing: 0.03em;
   color: var(--main-text-cl);
 }
-.member-position {
+.member-container {
   font-size: 16px;
+}
+.member-position {
   line-height: 1.186;
   text-align: center;
 }
 .member-name {
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.188;
 }
 .portfolio-item-text {
@@ -91,7 +92,6 @@ body {
   font-size: 26px;
   line-height: 1.192;
   text-decoration: none;
-  letter-spacing: 0.03em;
 }
 .logo-part {
   color: var(--accent-cl);
@@ -103,8 +103,8 @@ body {
 .footer-logo {
   color: #ffffff;
 }
-.footer-logo:visited {
-  color: var(--white);
+.list {
+  list-style: none;
 }
 .link {
   text-decoration: none;
@@ -155,12 +155,11 @@ body {
   letter-spacing: 0.06em;
 }
 .btn {
-  font-family: inher;
+  font-family: inherit;
   font-size: 16px;
   text-align: center;
 }
 .order-btn {
-  font-family: Roboto;
   font-weight: 700;
   line-height: 1.875;
   background-color: var(--accent-cl);
@@ -168,13 +167,9 @@ body {
   color: var(--white);
 }
 .portfolio-btn {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
-  font-size: 16px;
   line-height: 1.62;
   letter-spacing: inherit;
-  text-align: center;
   color: var(--black);
   background: #f5f4fa;
 }
@@ -186,6 +181,7 @@ body {
 .footer {
   background-color: var(--dark-bg);
 }
-.page-title-section {
+.hero-section {
   background-color: var(--dark-bg);
+  text-align: center;
 }
